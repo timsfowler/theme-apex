@@ -373,8 +373,8 @@ div.header a.logo {
   -moz-border-radius: 50%;
   border-radius: 50%;
 }
-/*div.header a.logo:hover {
-  background-color: #1abc9c;*/
+div.header a.logo:hover {
+  background-color: #1abc9c;
 }
 div.header a.logo img {
   -webkit-border-radius: 50%;
