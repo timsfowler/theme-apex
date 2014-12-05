@@ -567,7 +567,6 @@ div.post div.post-body .post-content ol li {
   list-style-type: decimal;
 }
 div.post div.post-body .post-content h1 {
-  font-family: "europa",sans-serif;
   {
   padding-bottom: 15px;
 }
@@ -652,7 +651,7 @@ div.post p.comments a:hover {
   color: #1abc9c;
 }
 div.post h1 {
-  font-size: 38px;
+  font-size: 60px;
   line-height: 46px;
   padding-bottom: 10px;
 }
