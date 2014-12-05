@@ -322,7 +322,7 @@ div.header div.bg-img {
   -o-background-size: cover;
   background-size: cover;
 }
-div.header div.site-description {
+/*div.header div.site-description {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -334,16 +334,16 @@ div.header div.site-description {
   text-align: center;
   padding: 30px 30px 130px 30px;
 }
-/*div.header div.site-description h1 {
+div.header div.site-description h1 {
   font-size: 20px;
   line-height: 30px;
-  color: #ffffff;
+  color: #000000;
   padding-bottom: 10px;
 }
 div.header div.site-description p {
   font-size: 16px;
   line-height: 28px;
-  color: #ffffff;
+  color: #000000;
 }
 div.header div.site-description ul {
   padding-top: 30px;
@@ -357,7 +357,7 @@ div.header div.site-description ul li a {
 }
 div.header div.site-description ul li a:hover,
 div.header div.site-description ul li a.active {
-  color: #1abc9c;
+  color: #000000;
 }*/
 div.header a.logo {
   display: block;
