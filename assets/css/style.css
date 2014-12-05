@@ -637,10 +637,10 @@ div.post p.back a:hover {
   color: #000000;
 }
 div.post p.date {
-  color: #999999;
-  font-size: 16px;
+  color: #d0d0d0;
+  font-size: 11px;
 }
-div.post p.comments {
+/*div.post p.comments {
   color: #999999;
   font-size: 16px;
 }
@@ -648,7 +648,7 @@ div.post p.comments a {
   color: #999999;
 }
 div.post p.comments a:hover {
-  color: #1abc9c;
+  color: #1abc9c;*/
 }
 div.post h1 {
   font-size: 30px;
