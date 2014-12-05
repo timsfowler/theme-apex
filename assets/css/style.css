@@ -452,9 +452,10 @@ div.post h3 {
   font-size: 22px;
 }
 div.post p {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 30px;
-  font-weight: 200;
+  font-weight: 300;
+  text-transform: uppercase
   margin: 0;
   padding: 10px 0 10px 0;
 }
