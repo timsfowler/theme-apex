@@ -334,7 +334,7 @@ div.header div.site-description {
   text-align: center;
   padding: 30px 30px 130px 30px;
 }
-div.header div.site-description h1 {
+/*div.header div.site-description h1 {
   font-size: 20px;
   line-height: 30px;
   color: #ffffff;
@@ -351,14 +351,14 @@ div.header div.site-description ul {
 div.header div.site-description ul li {
   padding-bottom: 14px;
 }
-/*div.header div.site-description ul li a {
+div.header div.site-description ul li a {
   color: #fff;
   font-size: 14px;
-}*/
+}
 div.header div.site-description ul li a:hover,
 div.header div.site-description ul li a.active {
   color: #1abc9c;
-}
+}*/
 div.header a.logo {
   display: block;
   position: relative;
