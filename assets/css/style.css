@@ -651,9 +651,10 @@ div.post p.comments a:hover {
   color: #1abc9c;
 }
 div.post h1 {
-  font-size: 60px;
+  font-size: 30px;
   line-height: 46px;
   padding-bottom: 10px;
+  font-family: "europa",sans-serif;
 }
 div.post h2 {
   margin-top: 0;
