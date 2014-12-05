@@ -351,10 +351,10 @@ div.header div.site-description ul {
 div.header div.site-description ul li {
   padding-bottom: 14px;
 }
-div.header div.site-description ul li a {
+/*div.header div.site-description ul li a {
   color: #fff;
   font-size: 14px;
-}
+}*/
 div.header div.site-description ul li a:hover,
 div.header div.site-description ul li a.active {
   color: #1abc9c;
