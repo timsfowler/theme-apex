@@ -414,6 +414,7 @@ div.post h3 {
 }
 div.post h3 {
   font-size: 22px;
+  
 }
 div.post p {
   font-size: 20px;
@@ -566,6 +567,8 @@ div.post div.post-body .post-content ol li {
   list-style-type: decimal;
 }
 div.post div.post-body .post-content h1 {
+  font-family: "europa",sans-serif;
+  {
   padding-bottom: 15px;
 }
 div.post div.post-body .post-content h2,
