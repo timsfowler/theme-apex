@@ -881,7 +881,7 @@ div.footer ul li.link-icon a {
   }
   div.posts {
     padding: 100px 60px 0 60px;
-    text-align: center;
+    text-align: left;
   }
 }
 /* Landscape phones and down */
