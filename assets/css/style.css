@@ -903,7 +903,7 @@ div.footer ul li.link-icon a {
   }
   div.posts {
     padding: 80px 30px 0 30px;
-    text-align: center;
+    text-align: left;
   }
 }
 .post-pdf {
