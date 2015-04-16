@@ -361,7 +361,7 @@ div.header div.site-description ul li a.active {
 }*/
 div.header a.logo {
   display: block;
-  position: relative;
+  position: fixed;
   width: 120px;
   height: 120px;
   border: 0px solid #ffffff;
